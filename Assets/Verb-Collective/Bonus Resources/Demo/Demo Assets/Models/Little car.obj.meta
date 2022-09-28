@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 98e1df936890a1544826cd60217fca55
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body
+    100002: Body_06_(1)
+    100004: Body_06_(2)
+    100006: Body_06_(2)_(2)
+    100008: Body_06_(3)
+    100010: Body_09
+    100012: Body_10
+    100014: Body_11
+    100016: Body_11_(1)
+    100018: Body_12
+    100020: Body_12_(1)
+    100022: Body_15
+    100024: Body_15_(1)
+    100026: Handle-2
+    100028: Handles
+    100030: //RootNode
+    100032: Seat
+    100034: Steering_wheel
+    100036: Little car_root
+    400000: Body
+    400002: Body_06_(1)
+    400004: Body_06_(2)
+    400006: Body_06_(2)_(2)
+    400008: Body_06_(3)
+    400010: Body_09
+    400012: Body_10
+    400014: Body_11
+    400016: Body_11_(1)
+    400018: Body_12
+    400020: Body_12_(1)
+    400022: Body_15
+    400024: Body_15_(1)
+    400026: Handle-2
+    400028: Handles
+    400030: //RootNode
+    400032: Seat
+    400034: Steering_wheel
+    400036: Little car_root
+    2100000: BodyMat
+    2100002: Body_06_(1)Mat
+    2100004: Body_06_(2)Mat
+    2100006: Body_06_(2)_(2)Mat
+    2100008: Body_06_(3)Mat
+    2100010: Body_09Mat
+    2100012: Body_10Mat
+    2100014: Body_11Mat
+    2100016: Body_11_(1)Mat
+    2100018: Body_12Mat
+    2100020: Body_12_(1)Mat
+    2100022: Body_15Mat
+    2100024: Body_15_(1)Mat
+    2100026: Handle-2Mat
+    2100028: HandlesMat
+    2100030: SeatMat
+    2100032: Steering_wheelMat
+    2300000: Body
+    2300002: Body_06_(1)
+    2300004: Body_06_(2)
+    2300006: Body_06_(2)_(2)
+    2300008: Body_06_(3)
+    2300010: Body_09
+    2300012: Body_10
+    2300014: Body_11
+    2300016: Body_11_(1)
+    2300018: Body_12
+    2300020: Body_12_(1)
+    2300022: Body_15
+    2300024: Body_15_(1)
+    2300026: Handle-2
+    2300028: Handles
+    2300030: Seat
+    2300032: Steering_wheel
+    3300000: Body
+    3300002: Body_06_(1)
+    3300004: Body_06_(2)
+    3300006: Body_06_(2)_(2)
+    3300008: Body_06_(3)
+    3300010: Body_09
+    3300012: Body_10
+    3300014: Body_11
+    3300016: Body_11_(1)
+    3300018: Body_12
+    3300020: Body_12_(1)
+    3300022: Body_15
+    3300024: Body_15_(1)
+    3300026: Handle-2
+    3300028: Handles
+    3300030: Seat
+    3300032: Steering_wheel
+    4300000: Body
+    4300002: Body_06_(1)
+    4300004: Body_06_(2)
+    4300006: Body_06_(2)_(2)
+    4300008: Body_06_(3)
+    4300010: Body_09
+    4300012: Body_10
+    4300014: Body_11
+    4300016: Body_11_(1)
+    4300018: Body_12
+    4300020: Body_12_(1)
+    4300022: Body_15
+    4300024: Body_15_(1)
+    4300026: Handle-2
+    4300028: Handles
+    4300030: Seat
+    4300032: Steering_wheel
+    6400000: Body
+    6400002: Body_06_(1)
+    6400004: Body_06_(2)
+    6400006: Body_06_(2)_(2)
+    6400008: Body_06_(3)
+    6400010: Body_09
+    6400012: Body_10
+    6400014: Body_11
+    6400016: Body_11_(1)
+    6400018: Body_12
+    6400020: Body_12_(1)
+    6400022: Body_15
+    6400024: Body_15_(1)
+    6400026: Handle-2
+    6400028: Handles
+    6400030: Seat
+    6400032: Steering_wheel
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1 @@
+If you selected not to include sounds from the bonus assets while importing the package the demo will not incluce audio, which is a big part of understanding what is happening.
