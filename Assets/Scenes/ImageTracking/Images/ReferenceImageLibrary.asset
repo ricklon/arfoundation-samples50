@@ -47,3 +47,13 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: QRCode
     m_Texture: {fileID: 2800000, guid: a6fd8503774c0402aa403884f5b77f39, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5602713136844314650
+      m_GuidHigh: 9585166296601760918
+    m_SerializedTextureGuid:
+      m_GuidLow: 1492699870931622645
+      m_GuidHigh: 2060305861179336555
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: 2322684386_distressed_tyvek_material_
+    m_Texture: {fileID: 2800000, guid: bb269af5229f14b76be73fc843ad971c, type: 3}
